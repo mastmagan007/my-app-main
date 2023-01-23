@@ -1,0 +1,86 @@
+{
+    "data": [
+        {
+            "id": 5,
+            "attributes": {
+                "Title": "holla",
+                "Detail": "CLOUDINARY_URL=cloudinary://998771748982228:BxcV7tNXjabXti3X0chQK8rNiMo@dmgwjncsj",
+                "createdAt": "2023-01-18T20:49:40.026Z",
+                "updatedAt": "2023-01-18T20:49:41.784Z",
+                "publishedAt": "2023-01-18T20:49:41.777Z",
+                "Slug": "holla",
+                "Thumb": {
+                    "data": {
+                        "id": 5,
+                        "attributes": {
+                            "name": "3.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 480,
+                            "height": 600,
+                            "formats": {
+                                "small": {
+                                    "name": "small_3.png",
+                                    "hash": "small_3_494f720892",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "path": null,
+                                    "width": 400,
+                                    "height": 500,
+                                    "size": 274.89,
+                                    "url": "https://res.cloudinary.com/dmgwjncsj/image/upload/v1674074902/small_3_494f720892.png",
+                                    "provider_metadata": {
+                                        "public_id": "small_3_494f720892",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "name": "thumbnail_3.png",
+                                    "hash": "thumbnail_3_494f720892",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "path": null,
+                                    "width": 125,
+                                    "height": 156,
+                                    "size": 32.93,
+                                    "url": "https://res.cloudinary.com/dmgwjncsj/image/upload/v1674074905/thumbnail_3_494f720892.png",
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_3_494f720892",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "3_494f720892",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 93.9,
+                            "url": "https://res.cloudinary.com/dmgwjncsj/image/upload/v1674074902/3_494f720892.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "3_494f720892",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-01-18T20:48:25.661Z",
+                            "updatedAt": "2023-01-18T21:00:12.711Z"
+                        }
+                    }
+                },
+                "author": {
+                    "data": null
+                },
+                "posts": {
+                    "data": []
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 1
+        }
+    }
+}
