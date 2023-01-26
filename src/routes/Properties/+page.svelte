@@ -9,5 +9,5 @@
 
 
  
-      <Properties {properties} />
+      <Properties />
   </main>

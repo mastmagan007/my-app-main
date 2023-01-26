@@ -12,9 +12,11 @@ export const servicesData = writable({});
 For our use case, we only care about the drink names, not the other information.
 Here, we'll create a derived store to hold the drink names.
 **/
+
+
 export const properties = derived(propertiesData, ($propertiesData) => {
   if ($propertiesData.data){
-    return $propertiesData.data.map(drink => drink.attributes);
+    return $propertiesData.data.map(drink => drink);
   }
   return [];
 });
